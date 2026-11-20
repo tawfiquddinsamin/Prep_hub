@@ -1,0 +1,231 @@
+[
+  {
+    "id": 0,
+    "title": "The Rise of Urban Beekeeping",
+    "passage": "In recent years, city skylines have undergone a subtle yet profound transformation. Beyond the standard concrete, steel, and glass, a new architectural element has begun to claim space: the rooftop beehive. Urban beekeeping, the practice of maintaining bee colonies within densely populated metropolitan areas, has evolved from a niche hobby into a global movement. This phenomenon is driven by a combination of environmental urgency, a growing desire for local food production, and surprising scientific findings that suggest urban environments can actually be safer for bees than rural ones. Traditionally, agriculture has been viewed as the natural home for honeybees. However, the widespread adoption of industrial farming practices has turned the countryside into a hostile landscape for pollinators. Monoculture farming\u2014the cultivation of a single crop over a vast area\u2014deprives bees of the diverse nutritional diet they require to maintain robust immune systems. Furthermore, the heavy reliance on synthetic pesticides, particularly neonicotinoids, has been directly linked to Colony Collapse Disorder, a phenomenon that has decimated bee populations worldwide. In stark contrast, cities offer a surprising diversity of forage. Urban parks, botanical gardens, residential balconies, and railway embankments host a vast array of flowering plants that bloom at different times throughout the year. Because city dwellers tend to cultivate varied flora rather than single crops, urban bees often enjoy a more balanced and continuous supply of nectar and pollen. Additionally, urban areas are generally free from the lethal agrochemicals used in commercial agriculture. While municipal authorities do use pesticides for weed control, the scale is minuscule compared to the chemical deluge of modern farming. The logistical challenges of keeping bees in a city are distinct from those in the countryside. Urban beekeepers must navigate local regulations, which sometimes restrict livestock or stinging insects. They also need to secure permission from building owners to place hives on roofs, which offer safety from vandals and predators like skunks, but expose the colonies to high winds. Despite these hurdles, city beekeepers report high success rates. Studies from major metropolises such as London, Berlin, and New York indicate that urban honey often matches or even exceeds the purity of rural counterparts, showing remarkably low traces of heavy metals and pollutants. Beyond environmental benefits, urban beekeeping fosters a profound community engagement. Many city dwellers feel disconnected from nature and their food sources. Tending a hive bridges this gap, transforming passive consumers into active participants in food production. Workshops on beekeeping draw diverse crowds, fostering neighborhood cohesion and environmental education. Moreover, cities benefit economically from this practice, as local businesses incorporate hyper-local honey into artisanal products, ranging from craft beers to specialized skincare items. Ultimately, the integration of beehives into the urban fabric represents a symbiotic relationship between humans and nature. As cities continue to expand, finding ways to accommodate these vital insects is no longer just an ecological experiment; it is a necessity for safeguarding urban biodiversity and ensuring the resilience of our global food systems.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary main idea of the passage?",
+        "options": [
+          "Rural farming has become entirely obsolete due to the rise of urban agriculture.",
+          "Urban beekeeping is a growing, beneficial practice driven by the challenges bees face in rural areas and the unique advantages of cities.",
+          "City governments should ban all pesticide use to protect urban beehives from destruction.",
+          "Rooftop beekeeping is primarily a commercial enterprise designed to generate large-scale economic profits."
+        ],
+        "answer_index": 1,
+        "topic": "Main idea",
+        "evidence": "Urban beekeeping, the practice of maintaining bee colonies within densely populated metropolitan areas, has evolved from a niche hobby into a global movement."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, why do rural areas often fail to provide a healthy environment for bees?",
+        "options": [
+          "Rural areas lack sufficient rainfall to support flowering plants.",
+          "Monoculture farming and synthetic pesticides deprive bees of diverse nutrition and harm their health.",
+          "Predators such as skunks are much more aggressive in the countryside.",
+          "Farmers intentionally remove beehives to protect their crops from pollination."
+        ],
+        "answer_index": 1,
+        "topic": "Detail",
+        "evidence": "Monoculture farming\u2014the cultivation of a single crop over a vast area\u2014deprives bees of the diverse nutritional diet they require to maintain robust immune systems."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about the use of pesticides in urban areas compared to rural agriculture?",
+        "options": [
+          "Cities use significantly less chemical pesticide than industrial farms.",
+          "Urban pesticides are completely harmless to all forms of insect life.",
+          "Municipal authorities rely more heavily on synthetic pesticides than commercial farmers do.",
+          "Pesticide use is entirely prohibited within all major metropolitan city limits."
+        ],
+        "answer_index": 0,
+        "topic": "Inference",
+        "evidence": "While municipal authorities do use pesticides for weed control, the scale is minuscule compared to the chemical deluge of modern farming."
+      },
+      {
+        "id": 5,
+        "stem": "In the context of the passage, what does the word 'decimated' most nearly mean?",
+        "options": [
+          "Slightly reduced in number",
+          "Studied extensively by scientists",
+          "Severely damaged or destroyed",
+          "Relocated to new habitats"
+        ],
+        "answer_index": 2,
+        "topic": "Vocabulary in context",
+        "evidence": "Furthermore, the heavy reliance on synthetic pesticides, particularly neonicotinoids, has been directly linked to Colony Collapse Disorder, a phenomenon that has decimated bee populations worldwide."
+      },
+      {
+        "id": 6,
+        "stem": "How does urban beekeeping impact local communities beyond environmental benefits?",
+        "options": [
+          "It forces city dwellers to abandon modern technology.",
+          "It eliminates the need for municipal waste management.",
+          "It fosters neighborhood cohesion and supports local businesses creating artisanal products.",
+          "It completely resolves the housing shortages in major metropolises."
+        ],
+        "answer_index": 2,
+        "topic": "Detail",
+        "evidence": "Workshops on beekeeping draw diverse crowds, fostering neighborhood cohesion and environmental education."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Harnessing the Tides: A History of Tidal Power",
+    "passage": "The quest to harness the immense power of the oceans has occupied human ingenuity for centuries. Long before the advent of modern electricity, coastal communities recognized the predictable and relentless rhythm of the tides. The earliest recorded uses of tidal energy date back to the Middle Ages, primarily in Europe along the coasts of Britain, France, and Spain. During this period, rudimentary tidal mills were constructed to perform mechanical labor, most notably grinding grain into flour. These early installations typically consisted of a tidal basin or pool built near the mouth of an estuary. As the tide rose, water filled the basin through a sluice gate. When the tide receded, the gate was closed, and the trapped water was released through a channel to turn a waterwheel. Although limited in output and entirely dependent on geographic location, these mills represented a significant technological advancement, relieving humans of grueling physical exertion.\n\nFor hundreds of years, tidal mills remained a localized and largely unimproved technology. However, the dawn of the twentieth century brought a renewed interest in renewable energy sources, driven by the rapid industrialization of Western nations and the finite nature of fossil fuels. Engineers began to envision harnessing the tides not merely to turn local millstones, but to generate electricity on a massive scale. The realization of this ambition required overcoming monumental engineering hurdles, chief among them the corrosive marine environment and the vast capital investment needed to construct colossal barrages across entire estuaries.\n\nThe world's first large-scale tidal power station, the Rance Tidal Power Station, commenced operation in 1966 in Brittany, France. Situated on the estuary of the Rance River, this pioneering project utilized a massive barrage equipped with bulb turbines that could generate electricity during both the incoming (flood) and outgoing (ebb) tides. The Rance plant demonstrated the undeniable viability of commercial tidal energy generation, providing a reliable source of power to the French national grid for decades. Inspired by France's success, other nations began exploring similar mega-projects. In 1984, Canada inaugurated the Annapolis Royal Generating Station in Nova Scotia, and in 2011, South Korea launched the Sihwa Lake Tidal Power Station, which eventually surpassed the Rance facility to become the largest tidal power plant in the world.\n\nDespite these milestones, the widespread adoption of tidal barrage technology has faced significant environmental and economic headwinds. The construction of massive barrages fundamentally alters the local marine ecosystem, disrupting tidal flats, changing salinity levels in estuaries, and posing a hazard to migrating fish populations. Furthermore, the prohibitive upfront costs and lengthy construction timelines of these megastructures have deterred many governments from pursuing tidal projects in an era where solar and wind power offer faster returns on investment. Consequently, the contemporary focus of tidal energy research has largely shifted away from colossal barrages toward less invasive technologies, such as underwater tidal stream turbines.\n\nTidal stream generators operate much like underwater wind turbines, capturing the kinetic energy of moving water driven by lunar and solar gravitational forces. These devices can be deployed in channels with fast-flowing currents without the need for environmentally disruptive dams. While still representing a smaller fraction of the global renewable energy portfolio compared to wind and solar, tidal energy possesses one distinct advantage: absolute predictability. Unlike the intermittent nature of wind and solar power, tides can be accurately forecasted years in advance based on astronomical cycles. As technological innovations continue to reduce costs and mitigate environmental impacts, the ancient dream of harnessing the relentless motion of the oceans is steadily evolving into a crucial component of our sustainable energy future.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the main idea of the passage?",
+        "options": [
+          "Tidal mills in the Middle Ages were more efficient than modern wind turbines.",
+          "The evolution of tidal energy spans from medieval mechanical mills to modern electricity generation and advanced stream turbines.",
+          "France remains the sole producer of tidal energy in the contemporary world.",
+          "Tidal energy has completely replaced fossil fuels as the primary global energy source."
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "The quest to harness the immense power of the oceans has occupied human ingenuity for centuries."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what was the primary function of the earliest tidal mills in Europe?",
+        "options": [
+          "Desalinating seawater for coastal towns",
+          "Generating electricity for industrial factories",
+          "Grinding grain into flour",
+          "Pumping water out of flooded estuaries"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "During this period, rudimentary tidal mills were constructed to perform mechanical labor, most notably grinding grain into flour."
+      },
+      {
+        "id": 3,
+        "stem": "In the context of the second paragraph, what does the word \"prohibitive\" most nearly mean?",
+        "options": [
+          "Extremely high and discouraging",
+          "Legally restricted",
+          "Beneficial and encouraging",
+          "Easily manageable"
+        ],
+        "answer_index": 0,
+        "topic": "vocabulary in context",
+        "evidence": "Furthermore, the prohibitive upfront costs and lengthy construction timelines of these megastructures have deterred many governments from pursuing tidal projects in an era where solar and wind power offer faster returns on investment."
+      },
+      {
+        "id": 4,
+        "stem": "Which tidal power station eventually surpassed the Rance facility to become the largest in the world?",
+        "options": [
+          "The Annapolis Royal Generating Station",
+          "The Sihwa Lake Tidal Power Station",
+          "The Brittany Marine Plant",
+          "The Nova Scotia Tidal Array"
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "In 1984, Canada inaugurated the Annapolis Royal Generating Station in Nova Scotia, and in 2011, South Korea launched the Sihwa Lake Tidal Power Station, which eventually surpassed the Rance facility to become the largest tidal power plant in the world."
+      },
+      {
+        "id": 5,
+        "stem": "What can be inferred about tidal stream generators compared to traditional tidal barrages?",
+        "options": [
+          "They generate significantly more electricity than barrages.",
+          "They are much more harmful to migrating fish populations.",
+          "They are less disruptive to the surrounding marine ecosystem.",
+          "They require the construction of massive coastal dams."
+        ],
+        "answer_index": 2,
+        "topic": "inference",
+        "evidence": "These devices can be deployed in channels with fast-flowing currents without the need for environmentally disruptive dams."
+      },
+      {
+        "id": 6,
+        "stem": "According to the passage, what is the primary advantage of tidal energy over wind and solar power?",
+        "options": [
+          "It is significantly cheaper to install initially.",
+          "It can be accurately forecasted well in advance.",
+          "It requires no mechanical equipment.",
+          "It is completely unaffected by environmental regulations."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "Unlike the intermittent nature of wind and solar power, tides can be accurately forecasted years in advance based on astronomical cycles."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Architectural Role of Sleep in Human Memory",
+    "passage": "For centuries, the nocturnal hours were viewed merely as a period of physical restoration, a time when the body repaired worn tissues and replenished energy reserves while the mind simply switched off. Modern neuroscience, however, has fundamentally upended this passive view. Sleep is now recognized as an intensely active neurobiological state, particularly vital for the orchestration, consolidation, and refinement of human memory. During the day, our brains are bombarded with an overwhelming deluge of sensory data, ranging from complex professional concepts to fleeting visual details. Without intervention, this fragile cargo of daily experiences would quickly decay or become hopelessly entangled. Sleep provides the mandatory offline environment required to process, edit, and archive this vast stream of information. The transformation of a fleeting, fragile short-term memory into a stable, long-term neural representation is known as memory consolidation. Research indicates that this intricate stabilization process does not occur uniformly throughout the night; rather, it relies heavily on the distinct neuroelectrical signatures of different sleep stages. Sleep is broadly categorized into two major states: Non-Rapid Eye Movement (NREM) sleep, which includes deep slow-wave sleep, and Rapid Eye Movement (REM) sleep, often associated with vivid dreaming. Each of these states plays a unique, complementary role in memory processing. During deep NREM sleep, the brain generates large, synchronized oscillations known as slow waves and sleep spindles. Neuroscientists believe that these rhythmic bursts of electrical activity act as an internal dialogue between the hippocampus\u2014a seahorse-shaped structure that serves as a temporary holding depot for recent episodes\u2014and the neocortex, the brain's vast long-term storage facility. Through this nocturnal dialogue, memories are actively replayed, pruned of irrelevant details, and gradually transferred from the temporary hippocampal vault into the permanent architectural framework of the neocortex. This dual-system model explains why sleep-deprived individuals struggle to retain factual knowledge; their brains lack the necessary slow-wave intervals to orchestrate this critical transfer. In contrast, REM sleep appears to specialize in a different dimension of cognitive processing: associative integration. While NREM sleep stabilizes individual facts and episodes, REM sleep provides a neurochemical environment rich in acetylcholine, virtually devoid of the stress hormone noradrenaline. This unique biochemical milieu allows the sleeping brain to form bizarre, creative, and distant associations between newly acquired information and pre-existing autobiographical memories. It is during REM sleep that seemingly disparate concepts are woven into a cohesive tapestry of understanding, fostering problem-solving abilities and creative insight. This phenomenon explains why individuals often wake up with sudden clarity regarding problems that seemed insurmountable the evening before. Furthermore, sleep actively defends our memories against forgetting through a process of synaptic homeostasis. Throughout waking hours, learning causes a net increase in the strength and number of synaptic connections across the brain, a metabolic process that cannot continue indefinitely without exhausting cellular resources and energy supplies. During sleep, particularly slow-wave sleep, overall synaptic strength is globally downscaled, pruning away weak or redundant connections while preserving the essential memory traces. This selective weakening acts as a neural sharpening mechanism, enhancing the signal-to-noise ratio of stored memories so that they remain crisp and retrievable. The implications of these discoveries extend far beyond theoretical neuroscience, carrying profound consequences for education, public health, and modern lifestyle habits. In an era characterized by chronic sleep curtailment, driven by professional pressures and the omnipresence of digital screens, human cognitive architecture is quietly paying a heavy toll. Skimping on sleep does not merely result in daytime fatigue; it actively sabotages the brain's ability to learn, remember, and adapt. Recognizing sleep as the master architect of memory forces a radical re-evaluation of how society views rest\u2014shifting it from a luxurious indulgence to an indispensable biological necessity.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "To detail the physical repair of body tissues during nighttime rest",
+          "To explain how different stages of sleep actively process and consolidate memories",
+          "To contrast the biological needs of humans with those of other mammals",
+          "To argue that modern technology is the primary cause of global sleep deprivation"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "Sleep is now recognized as an intensely active neurobiological state, particularly vital for the orchestration, consolidation, and refinement of human memory."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about individuals who consistently experience severe sleep deprivation?",
+        "options": [
+          "They will naturally compensate by increasing their daytime memory retention.",
+          "Their brains will have difficulty transferring factual knowledge from the hippocampus to the neocortex.",
+          "They will experience an increase in noradrenaline levels during REM sleep.",
+          "Their brains will rely entirely on synaptic homeostasis to store new memories."
+        ],
+        "answer_index": 1,
+        "topic": "inference",
+        "evidence": "This dual-system model explains why sleep-deprived individuals struggle to retain factual knowledge; their brains lack the necessary slow-wave intervals to orchestrate this critical transfer."
+      },
+      {
+        "id": 4,
+        "stem": "In the context of the passage, what does the word \"milieu\" most nearly mean?",
+        "options": [
+          "An environment or surrounding medium",
+          "A barrier or protective wall",
+          "A sudden electrical discharge",
+          "A structural architectural design"
+        ],
+        "answer_index": 0,
+        "topic": "vocabulary in context",
+        "evidence": "This unique biochemical milieu allows the sleeping brain to form bizarre, creative, and distant associations between newly acquired information and pre-existing autobiographical memories."
+      },
+      {
+        "id": 5,
+        "stem": "Which sleep stage is primarily associated with associative integration and creative problem-solving?",
+        "options": [
+          "Non-Rapid Eye Movement sleep",
+          "Slow-wave sleep",
+          "Rapid Eye Movement sleep",
+          "Synaptic homeostasis sleep"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "In contrast, REM sleep appears to specialize in a different dimension of cognitive processing: associative integration."
+      },
+      {
+        "id": 6,
+        "stem": "What is the role of synaptic downscaling during sleep?",
+        "options": [
+          "To permanently erase all memory traces formed during the preceding day",
+          "To globally reduce synaptic strength, pruning redundant connections to enhance memory clarity",
+          "To increase the metabolic energy supplies available to cellular structures",
+          "To generate slow waves and sleep spindles within the neocortex"
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "During sleep, particularly slow-wave sleep, overall synaptic strength is globally downscaled, pruning away weak or redundant connections while preserving the essential memory traces."
+      }
+    ]
+  }
+]

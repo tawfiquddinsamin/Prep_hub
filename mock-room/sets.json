@@ -1,0 +1,852 @@
+[
+  {
+    "id": 0,
+    "title": "The Rise of Urban Beekeeping",
+    "passage": "In recent years, city skylines have undergone a surprising transformation. Beyond the traditional additions of rooftop gardens and solar panels, a new and buzzing phenomenon is reshaping urban architecture: beekeeping. Once viewed exclusively as a rural agricultural practice, apiculture has found a thriving home in the dense concrete landscapes of major global metropolises such as London, New York, and Tokyo. This urban beekeeping movement is not merely a quirky hobby for hipsters and environmental enthusiasts; rather, it represents a crucial ecological intervention in response to the alarming decline of global bee populations. Urban areas, paradoxically, often offer a more hospitable environment for honeybees than modern industrial farmlands. In the countryside, vast expanses of monoculture crops-such as endless fields of corn or soy-provide a monotonous diet for bees and are frequently treated with toxic synthetic pesticides. Conversely, cities present a rich botanical tapestry. Urban dwellers plant diverse flora in window boxes, community gardens, balconies, and public parks, ensuring that bees have access to a continuous and varied nectar source throughout the spring, summer, and autumn months. Furthermore, urban microclimates are generally a few degrees warmer than surrounding rural areas, which can help colonies survive harsh winters more successfully. The honey produced by these city-dwelling bees has also garnered significant attention. Connoisseurs and culinary experts often note that urban honey possesses a distinct and complex flavor profile compared to its rural counterpart. While rural honey typically derives from a single dominant floral source, city honey is a polyfloral blend extracted from thousands of different backyard gardens and park plants. This results in a unique taste that varies dramatically from one neighborhood to the next. Moreover, laboratory analyses have frequently shown that urban honey is surprisingly pure, often containing fewer pesticide residues than honey harvested from agricultural regions where chemical pest control is ubiquitous. Despite the numerous benefits, urban beekeeping is not without its challenges and controversies. Introducing thousands of stinging insects into densely populated areas naturally raises public safety concerns among jittery residents. Municipal governments have had to establish rigorous regulatory frameworks to govern rooftop hives, often requiring beekeeper registration, specialized training, and adherence to specific management protocols to prevent swarming. Additionally, beekeepers must navigate the logistical nightmare of hauling heavy equipment, wooden frames, and sticky honey extractors up several flights of stairs or via elevators in high-rise apartment buildings. Education plays a vital role in mitigating community fears. Urban beekeepers frequently host workshops, open-hive days, and school presentations to demystify the gentle nature of honeybees and educate the public on their indispensable role in pollinating the plants that sustain our ecosystems. As cities continue to expand and cement their dominance over natural landscapes, urban beekeeping serves as a powerful reminder that human habitats and wildlife can coexist in surprisingly harmonious ways. By turning rooftops into sanctuaries for pollinators, city dwellers are not only securing a localized, delectable product but are also playing an active role in biodiversity conservation.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The commercial profitability of selling urban honey",
+          "The environmental challenges and benefits of keeping bees in cities",
+          "The comparison between rural and urban agricultural techniques",
+          "The architectural changes required for modern high-rise buildings"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "This urban beekeeping movement is not merely a quirky hobby for hipsters and environmental enthusiasts; rather, it represents a crucial ecological intervention in response to the alarming decline of global bee populations."
+      },
+      {
+        "id": 2,
+        "stem": "Why do cities often provide a better environment for bees than industrial farmlands?",
+        "options": [
+          "Cities have fewer predators that hunt honeybees.",
+          "Industrial farmlands use toxic synthetic pesticides and feature monotonous crops.",
+          "Urban beekeepers feed their colonies artificial nectar.",
+          "Cities are entirely free of pollution."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "In the countryside, vast expanses of monoculture crops-such as endless fields of corn or soy-provide a monotonous diet for bees and are frequently treated with toxic synthetic pesticides."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about the flavor of urban honey?",
+        "options": [
+          "It tastes identical regardless of which city it is produced in.",
+          "It is always sweeter than rural honey due to urban pollution.",
+          "It changes significantly depending on the neighborhood and diverse plant sources.",
+          "It tastes predominantly of corn and soy."
+        ],
+        "answer_index": 2,
+        "topic": "inference",
+        "evidence": "This results in a unique taste that varies dramatically from one neighborhood to the next."
+      },
+      {
+        "id": 4,
+        "stem": "As used in the passage, what does the word \"ubiquitous\" most nearly mean?",
+        "options": [
+          "Rarely used",
+          "Found everywhere",
+          "Highly regulated",
+          "Dangerously toxic"
+        ],
+        "answer_index": 1,
+        "topic": "vocabulary in context",
+        "evidence": "Moreover, laboratory analyses have frequently shown that urban honey is surprisingly pure, often containing fewer pesticide residues than honey harvested from agricultural regions where chemical pest control is ubiquitous."
+      },
+      {
+        "id": 5,
+        "stem": "According to the text, what specific measure have municipal governments taken regarding urban hives?",
+        "options": [
+          "Banning them completely from high-rise buildings",
+          "Providing financial subsidies to all new beekeepers",
+          "Establishing regulatory frameworks that require beekeeper registration and training",
+          "Taking over the management of all rooftop honey production"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "Municipal governments have had to establish rigorous regulatory frameworks to govern rooftop hives, often requiring beekeeper registration, specialized training, and adherence to specific management protocols to prevent swarming."
+      },
+      {
+        "id": 6,
+        "stem": "What is one logistical difficulty mentioned that urban beekeepers must face?",
+        "options": [
+          "Finding enough bees to populate city rooftops",
+          "Transporting heavy equipment and honey extractors up through buildings",
+          "Convincing bees to adapt to warmer urban microclimates",
+          "Protecting hives from harsh rural winters"
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "Additionally, beekeepers must navigate the logistical nightmare of hauling heavy equipment, wooden frames, and sticky honey extractors up several flights of stairs or via elevators in high-rise apartment buildings."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Harnessing the Tides: A History of Tidal Energy",
+    "passage": "The quest to harness the immense power of the oceans has occupied human ingenuity for centuries. While wind and solar energy frequently dominate modern discussions on renewable resources, tidal energy boasts a remarkably long pedigree. Long before the advent of electricity, coastal communities recognized the predictable and relentless rhythm of the tides. The earliest recorded uses of tidal power date back to the Middle Ages, particularly in regions along the Atlantic coast of Europe, including France, Britain, and Spain. During this era, simple yet effective mechanisms known as tide mills were constructed to perform mechanical labor, most notably grinding grain into flour.\n\nA typical medieval tide mill operated on a straightforward principle. A basin or estuary was dammed to create a tidal pond. As the tide rose, water flowed into the pond through one-way sluice gates. When the tide began to ebb, these gates automatically shut, trapping the water inside the basin. At an opportune moment, the trapped water was released through a sluice to turn a waterwheel, which in turn powered millstones. Although these structures were entirely dependent on geographic location and produced no electrical power, they represented a significant leap forward in mechanical engineering. They liberated communities from the exclusive reliance on animal strength, erratic wind currents, or flowing river streams, providing a dependable source of energy twice a day.\n\nAs the Industrial Revolution swept across the globe in the eighteenth and nineteenth centuries, the reliance on local tide mills gradually waned. The advent of the steam engine, powered by abundant coal, offered a portable and continuous energy source that was not tethered to coastal geography or the lunar cycle. Consequently, many historic tide mills fell into disrepair or were abandoned altogether. However, the foundational concepts of utilizing tidal movement did not vanish permanently. The twentieth century brought a renewed interest in tidal power, driven by the pressing need for large-scale electricity generation and the growing awareness of fossil fuel limitations.\n\nThe mid-twentieth century marked the transition from mechanical tide mills to modern hydroelectric barrage schemes. The world's first major commercial tidal power station, the Rance Tidal Power Station, commenced operation in 1966 in Brittany, France. Situated across the estuary of the Rance River, this ambitious project utilized a massive barrage equipped with bulb turbines that could generate electricity from both incoming and outgoing tides. The Rance facility demonstrated the undeniable viability of utility-scale tidal energy, proving that predictable marine currents could successfully power regional electrical grids. Following the success of the French endeavor, other nations began exploring similar megaprojects, leading to the construction of installations such as the Annapolis Royal Generating Station in Canada and the Sihwa Lake Tidal Power Station in South Korea.\n\nDespite these pioneering achievements, the expansion of traditional barrage systems has faced considerable hurdles. Constructing large concrete dams across sensitive coastal estuaries incurs profound ecological consequences. These barriers alter local marine habitats, disrupt tidal flats utilized by migratory birds, and affect the salinity and sediment distribution within the estuary. Furthermore, the astronomical capital costs associated with civil engineering projects in marine environments have deterred many governments from pursuing large-scale tidal barrages.\n\nIn response to these environmental and economic challenges, contemporary engineers have pivoted toward innovative, less intrusive technologies. Modern advancements focus on tidal stream generators, which resemble underwater wind turbines. These devices capture the kinetic energy of marine currents without requiring massive dams or altering entire ecosystems. By anchoring these turbines in high-velocity tidal channels, developers hope to unlock vast reserves of clean energy quietly and efficiently. As technological refinements continue, the ancient dream of harnessing the relentless tides is finally evolving into a versatile, sustainable pillar of the modern global energy matrix.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The economic failures of modern underwater wind turbines",
+          "The evolution of tidal energy from medieval mills to contemporary technology",
+          "The comparison between solar, wind, and tidal power generation",
+          "The ecological devastation caused exclusively by French tidal stations"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "The quest to harness the immense power of the oceans has occupied human ingenuity for centuries."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what was the primary function of medieval tide mills?",
+        "options": [
+          "Generating electricity for coastal homes",
+          "Pumping water out of flooded estuaries",
+          "Grinding grain into flour",
+          "Powering early steam locomotives"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "During this era, simple yet effective mechanisms known as tide mills were constructed to perform mechanical labor, most notably grinding grain into flour."
+      },
+      {
+        "id": 3,
+        "stem": "Why did the use of traditional tide mills decline during the Industrial Revolution?",
+        "options": [
+          "Coastal communities were abandoned due to rising sea levels.",
+          "The steam engine offered a continuous energy source not tied to the lunar cycle.",
+          "Governments banned mechanical waterwheels in favor of solar power.",
+          "The tidal ranges in Europe drastically decreased over time."
+        ],
+        "answer_index": 1,
+        "topic": "inference",
+        "evidence": "The advent of the steam engine, powered by abundant coal, offered a portable and continuous energy source that was not tethered to coastal geography or the lunar cycle."
+      },
+      {
+        "id": 4,
+        "stem": "In the context of paragraph 3, what does the word 'waned' most nearly mean?",
+        "options": [
+          "Increased rapidly",
+          "Became obsolete",
+          "Decreased in strength",
+          "Transformed entirely"
+        ],
+        "answer_index": 2,
+        "topic": "vocabulary in context",
+        "evidence": "As the Industrial Revolution swept across the globe in the eighteenth and nineteenth centuries, the reliance on local tide mills gradually waned."
+      },
+      {
+        "id": 5,
+        "stem": "What was a major consequence of constructing large concrete tidal barrages across estuaries?",
+        "options": [
+          "They caused profound ecological consequences in sensitive coastal habitats.",
+          "They completely eliminated the need for electrical grid maintenance.",
+          "They lowered the capital costs of civil engineering projects.",
+          "They permanently stopped the flow of incoming and outgoing tides."
+        ],
+        "answer_index": 0,
+        "topic": "detail",
+        "evidence": "Constructing large concrete dams across sensitive coastal estuaries incurs profound ecological consequences."
+      },
+      {
+        "id": 6,
+        "stem": "What distinguishes contemporary tidal stream generators from traditional barrage systems?",
+        "options": [
+          "They are powered exclusively by fossil fuels.",
+          "They require massive dams to alter river salinity.",
+          "They do not require massive dams or alter entire ecosystems.",
+          "They can only operate during the winter months."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "Modern advancements focus on tidal stream generators, which resemble underwater wind turbines."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Neurobiology of Sleep and Memory Consolidation",
+    "passage": "For decades, scientists have recognized that sleep is not merely a passive state of physical rest, but rather an active, highly orchestrated period of neural reorganization. While the body lies motionless, the brain is remarkably busy, sorting through the vast influx of information accumulated during wakefulness. One of the most fascinating functions of this nocturnal downtime is memory consolidation\u2014the complex process by which fragile, newly acquired short-term memories are transformed into stable, long-term representations stored across the cerebral cortex. Without adequate slumber, our ability to learn, retain, and recall information diminishes significantly, highlighting sleep as a vital cognitive maintenance mechanism. The process of memory transformation typically begins during wakefulness with the encoding phase. When we experience new events or study new facts, transient neural connections are forged, primarily within the hippocampus, a seahorse-shaped structure nestled deep within the temporal lobe. However, the capacity of the hippocampus is strictly limited; it acts as a temporary holding station, much like the RAM of a computer. If memories remained only in the hippocampus, they would quickly be overwritten by newer experiences, a phenomenon known as retroactive interference. To prevent this, the brain must offload these temporary traces to the neocortex for permanent storage. This crucial transfer largely occurs during specific stages of nocturnal rest, particularly slow-wave sleep, which is characterized by high-amplitude, low-frequency brain waves known as delta waves. During slow-wave sleep, the brain undergoes a process of active system consolidation. Neuroscientists have discovered that the hippocampus and the neocortex engage in a synchronized dialogue during this time. The hippocampus repeatedly replays the neural firing patterns associated with recent experiences, effectively broadcasting them to the broader neocortical networks. This rhythmic reactivation strengthens the synaptic connections between cortical neurons, weaving the new memories into the existing fabric of pre-existing knowledge. Interestingly, this dialogue is orchestrated by distinct neurological events called sleep spindles\u2014brief bursts of high-frequency brain activity generated by the thalamus. These spindles act as protective barriers, shielding the sleeping brain from external sensory disturbances while the internal transfer of data is being completed. Beyond declarative facts and episodes, sleep is also profoundly beneficial for procedural memory\u2014the motor skills and physical habits we acquire, such as playing an instrument or riding a bicycle. While declarative memories rely heavily on slow-wave sleep, procedural memories show the greatest performance enhancement following periods rich in rapid eye movement, or REM, sleep. During REM sleep, the brain exhibits high levels of electrical activity similar to wakefulness, accompanied by vivid dreaming. It is during this phase that motor skills are refined and integrated. Moreover, REM sleep appears to foster creative problem-solving and emotional regulation. By dissociating emotional arousal from the underlying memory trace, REM sleep allows individuals to process distressing experiences without the debilitating stress originally associated with them. In light of these neurobiological insights, the societal tendency to sacrifice sleep for productivity appears increasingly counterproductive. Academic pressure and professional demands frequently lead individuals to cram for exams or work late into the night, erroneously believing that extra hours of wakefulness yield superior performance. In reality, curtailing sleep shortchanges the brain of the essential windows required for memory stabilization and synaptic pruning. As sleep science continues to advance, it becomes ever more apparent that a well-rested brain is not a luxury, but an absolute biological necessity for optimal cognitive function and intellectual longevity.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The physical restoration of the body during rest",
+          "The active role of sleep in transforming and storing memories",
+          "The differences between procedural and declarative learning",
+          "The dangers of sleep deprivation on emotional health"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "One of the most fascinating functions of this nocturnal downtime is memory consolidation\u2014the complex process by which fragile, newly acquired short-term memories are transformed into stable, long-term representations stored across the cerebral cortex."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what functions similarly to a computer's temporary random-access memory?",
+        "options": [
+          "The neocortex",
+          "The thalamus",
+          "The hippocampus",
+          "The cerebral cortex"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "However, the capacity of the hippocampus is strictly limited; it acts as a temporary holding station, much like the RAM of a computer."
+      },
+      {
+        "id": 3,
+        "stem": "What does the author imply about people who sacrifice sleep to work or study late into the night?",
+        "options": [
+          "They achieve their long-term professional and academic goals more quickly.",
+          "They risk permanently damaging their thalamus and hippocampus.",
+          "They are engaging in a counterproductive practice that hinders performance.",
+          "They compensate for lost slow-wave sleep by sleeping longer the next night."
+        ],
+        "answer_index": 2,
+        "topic": "inference",
+        "evidence": "In light of these neurobiological insights, the societal tendency to sacrifice sleep for productivity appears increasingly counterproductive."
+      },
+      {
+        "id": 4,
+        "stem": "As it is used in the passage, what does the word 'curtailing' most nearly mean?",
+        "options": [
+          "Enhancing",
+          "Shortening",
+          "Evaluating",
+          "Extending"
+        ],
+        "answer_index": 1,
+        "topic": "vocabulary in context",
+        "evidence": "In reality, curtailing sleep shortchanges the brain of the essential windows required for memory stabilization and synaptic pruning."
+      },
+      {
+        "id": 5,
+        "stem": "Which sleep stage is specifically highlighted as being most beneficial for procedural memories and motor skills?",
+        "options": [
+          "Slow-wave sleep",
+          "Delta wave sleep",
+          "REM sleep",
+          "Non-REM sleep"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "While declarative memories rely heavily on slow-wave sleep, procedural memories show the greatest performance enhancement following periods rich in rapid eye movement, or REM, sleep."
+      },
+      {
+        "id": 6,
+        "stem": "What neurological structure generates the brief bursts of high-frequency activity known as sleep spindles?",
+        "options": [
+          "The thalamus",
+          "The hippocampus",
+          "The neocortex",
+          "The cerebral cortex"
+        ],
+        "answer_index": 0,
+        "topic": "detail",
+        "evidence": "These spindles act as protective barriers, shielding the sleeping brain from external sensory disturbances while the internal transfer of data is being completed."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Evolution of the FIFA World Cup",
+    "passage": "The FIFA World Cup stands as the most prestigious and widely viewed single-sport event in the global arena. Incepted in 1930 under the auspices of FIFA President Jules Rimet, the inaugural tournament was hosted and won by Uruguay. Only thirteen teams participated in this nascent competition, a stark contrast to the modern multi-continental spectacles. Travel across the Atlantic was arduous and costly for European nations during the Great Depression, leading to a modest turnout. Despite these logistical hurdles, the tournament laid the foundation for an international tradition that would transcend sports and capture the geopolitical imagination of the world. Throughout the decades, the tournament has weathered various global crises, including cancellation during World War II, and has expanded exponentially in scale, viewership, and commercial value. The journey from a humble gathering of thirteen nations in Montevideo to a global phenomenon involving forty-eight teams reflects not only the growth of association football but also the broader currents of twentieth- and twenty-first-century history. In the early decades, South American and European nations dominated both the hosting rights and the ultimate silverware. Uruguay secured the inaugural title, and neighboring Argentina and powerhouse Brazil soon joined them as titans of the sport. Brazil, spearheaded by legendary figures like Pel\u00e9, emerged as the most successful nation in World Cup history, clinching five titles across different eras. Meanwhile, European heavyweights such as Italy and Germany established their own dynasties, trading triumphs and creating epic rivalries that defined the tournament's narrative arc. The 1970 tournament in Mexico heralded a new epoch for the competition, largely driven by technological advancements. It was the first World Cup to be broadcast globally in color, allowing billions of fans from every corner of the earth to witness the dazzling skills of Pel\u00e9 and his compatriots in real-time. This television revolution catalyzed the commercialization of the sport, turning athletes into global icons and generating unprecedented revenue streams for FIFA and participating federations. Consequently, the World Cup morphed from a purely athletic competition into a massive economic and cultural enterprise. As the tournament grew, so too did the desire to democratize participation, leading to several expansions of the tournament format. The original field of 13 was expanded to 16 teams in 1934, later grew to 24 in 1982, and expanded again to 32 in 1998 to accommodate the rising standards of football in Africa, Asia, and North America. Each expansion was met with debate regarding the potential dilution of competitive quality, yet these changes consistently revitalized interest by introducing fresh national narratives. For instance, African nations like Cameroon and Senegal, as well as Asian teams like South Korea, achieved historic runs that shattered traditional Euro-centric and South American dominance. Looking forward, the tournament is poised for its most radical transformation yet. The upcoming expansion to 48 teams exemplifies the relentless globalization of the sport. While critics argue that larger fields may compromise the group stage intensity, proponents champion the inclusion of emerging football nations that have long awaited a spot on the grandest stage. Furthermore, the modern era has introduced technological innovations such as Goal-Line Technology and the Video Assistant Referee (VAR), sparking intense debates about the balance between human error and absolute fairness. Ultimately, the FIFA World Cup remains a dynamic entity. It continually reinvents itself while honoring its rich heritage, serving as a unifying mirror for a diverse and interconnected world.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The financial corruption within FIFA over the decades",
+          "The historical evolution, expansion, and global impact of the FIFA World Cup",
+          "A detailed biography of legendary footballer Pel\u00e9",
+          "The technical rules of association football and refereeing innovations"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "The journey from a humble gathering of thirteen nations in Montevideo to a global phenomenon involving forty-eight teams reflects not only the growth of association football but also the broader currents of twentieth- and twenty-first-century history."
+      },
+      {
+        "id": 2,
+        "stem": "Why did only thirteen teams participate in the inaugural 1930 World Cup?",
+        "options": [
+          "Most countries were not interested in football at the time.",
+          "FIFA imposed strict qualification criteria that most nations failed to meet.",
+          "Travel across the Atlantic was difficult and expensive due to the Great Depression.",
+          "Uruguay refused to grant entry visas to more than thirteen delegations."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "Travel across the Atlantic was arduous and costly for European nations during the Great Depression, leading to a modest turnout."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about the 1970 World Cup in Mexico?",
+        "options": [
+          "It was the first time an African nation won a match in the tournament.",
+          "It marked a turning point for the tournament's global reach and financial potential.",
+          "It experienced the lowest television viewership in tournament history.",
+          "It was the final tournament to use black-and-white broadcasting."
+        ],
+        "answer_index": 1,
+        "topic": "inference",
+        "evidence": "This television revolution catalyzed the commercialization of the sport, turning athletes into global icons and generating unprecedented revenue streams for FIFA and participating federations."
+      },
+      {
+        "id": 4,
+        "stem": "As used in the passage, what does the word 'nascent' most nearly mean?",
+        "options": [
+          "failing",
+          "hostile",
+          "developing",
+          "luxurious"
+        ],
+        "answer_index": 2,
+        "topic": "vocabulary in context",
+        "evidence": "Incepted in 1930 under the auspices of FIFA President Jules Rimet, the inaugural tournament was hosted and won by Uruguay."
+      },
+      {
+        "id": 5,
+        "stem": "Which of the following is true regarding the expansions of the tournament format?",
+        "options": [
+          "Every expansion was universally praised without any criticism.",
+          "The tournament format has never changed since 1930.",
+          "Expansions were implemented to accommodate rising football standards in regions outside Europe and South America.",
+          "The 32-team format was introduced in the 1970s."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "The original field of 13 was expanded to 16 teams in 1934, later grew to 24 in 1982, and expanded again to 32 in 1998 to accommodate the rising standards of football in Africa, Asia, and North America."
+      },
+      {
+        "id": 6,
+        "stem": "What is one criticism associated with the modern introduction of technologies like VAR?",
+        "options": [
+          "It has completely eliminated all human errors from the game.",
+          "It has sparked intense debates about the balance between human error and absolute fairness.",
+          "It has caused matches to become excessively short.",
+          "It is too expensive for television broadcasters to implement."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "Furthermore, the modern era has introduced technological innovations such as Goal-Line Technology and the Video Assistant Referee (VAR), sparking intense debates about the balance between human error and absolute fairness."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Psychology of Color: How Hues Influence Human Behavior and Emotion",
+    "passage": "Color is a pervasive element of the human environment, shaping experiences and perceptions in ways that are often subtle yet profound. The psychological impact of color has fascinated scientists, artists, and marketers for centuries. While cultural conditioning plays a significant role in how individuals interpret specific hues, psychological research suggests that certain color responses are deeply rooted in human evolution. Understanding these psychological mechanisms provides valuable insights into everything from interior design and therapeutic environments to commercial branding and consumer behavior. Historically, human survival depended heavily on the ability to rapidly decode visual signals in the natural environment. Bright reds and yellows, for instance, frequently signaled danger, toxicity, or the presence of high-energy resources such as ripe fruit. Consequently, these warm colors tend to evoke heightened physiological arousal. Red, in particular, is universally associated with vitality, urgency, and passion. Studies in experimental psychology have demonstrated that exposure to red can elevate heart rates and induce a state of alertness. In competitive contexts, athletes wearing red uniforms have occasionally been observed to perform better, potentially due to the intimidating effect the color has on opponents or the boost of confidence it provides to the wearer. In contrast, cool colors such as blues and greens are predominantly linked to environments abundant in water and vegetation, which naturally convey safety, tranquility, and abundance. Looking at green or blue has been shown to lower blood pressure and reduce stress levels. This restorative quality forms the basis of restorative environmental design, where healthcare facilities incorporate natural green hues and soothing blues to accelerate patient recovery and alleviate anxiety. Beyond physiological reactions, color symbolism is heavily mediated by cultural and contextual factors. White, which represents purity and cleanliness in many Western societies, signifies mourning and grief in several East Asian cultures. Similarly, purple has historically been associated with royalty and wealth because the extraction of the dye from sea snails was an exceptionally labor-intensive and costly process in the ancient world. These culturally constructed meanings demonstrate that while biological predispositions lay the foundation for color perception, learned associations continuously modify human emotional responses. In the realm of commerce, the strategic deployment of color is a foundational pillar of neuromarketing. Corporations invest heavily in color psychology to forge brand identities and influence consumer purchasing decisions. Fast-food chains frequently utilize combinations of red and yellow to stimulate appetite and encourage rapid customer turnover. Conversely, financial institutions and technology companies lean toward shades of blue to project trustworthiness, stability, and security. The interior layout of retail spaces also leverages color to manipulate time perception and mood; warm tones can make shoppers linger less and feel rushed, whereas cool tones create an illusion of spaciousness and encourage deliberate contemplation. Furthermore, the application of color extends into chromatic therapy, an alternative healing modality that suggests specific wavelengths of light can rebalance energy fields within the human body. Although mainstream medical science remains skeptical regarding the more esoteric claims of color therapy, clinical studies continue to validate the undeniable impact of chromatic environment on mood regulation. For example, painting correctional facilities or psychiatric wards in specific muted shades, such as a particular tranquil tone of pink, has occasionally been utilized to temporarily suppress aggressive behavior among inmates and patients. Ultimately, the psychology of color reveals a complex interplay between biological evolution, cultural heritage, and individual preference. As designers, marketers, and psychologists continue to decode these chromatic codes, it becomes increasingly clear that color is far more than a mere visual aesthetic; it is a powerful catalyst for human emotion and behavior.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The historical evolution of textile dyes and manufacturing processes",
+          "The biological and cultural ways color influences human emotions and actions",
+          "The exclusive application of color theory in modern digital marketing",
+          "The medical refutation of chromatic therapy in clinical psychiatry"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "Ultimately, the psychology of color reveals a complex interplay between biological evolution, cultural heritage, and individual preference."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, why is purple historically associated with royalty?",
+        "options": [
+          "It was the preferred color of ancient military leaders.",
+          "It naturally mimics the hues of rare gemstones.",
+          "The extraction process for the dye was extremely expensive and labor-intensive.",
+          "It was believed to reduce physiological arousal and induce calmness."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "Similarly, purple has historically been associated with royalty and wealth because the extraction of the dye from sea snails was an exceptionally labor-intensive and costly process in the ancient world."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about the use of red and yellow by fast-food chains?",
+        "options": [
+          "They are chosen to induce relaxation and slow customer turnover.",
+          "They are utilized to create an association with financial security and trust.",
+          "They are intended to stimulate appetite and encourage fast customer rotation.",
+          "They are meant to replicate natural green environments to reduce stress."
+        ],
+        "answer_index": 2,
+        "topic": "inference",
+        "evidence": "Fast-food chains frequently utilize combinations of red and yellow to stimulate appetite and encourage rapid customer turnover."
+      },
+      {
+        "id": 4,
+        "stem": "Which of the following best defines the word 'pervasive' as used in the first paragraph?",
+        "options": [
+          "Present or noticeable everywhere throughout an area or thing",
+          "Hidden or difficult to detect with the human eye",
+          "Temporary and changing rapidly over short periods",
+          "Harmful or toxic to living organisms"
+        ],
+        "answer_index": 0,
+        "topic": "vocabulary in context",
+        "evidence": "Color is a pervasive element of the human environment, shaping experiences and perceptions in ways that are often subtle yet profound."
+      },
+      {
+        "id": 5,
+        "stem": "How do cool colors such as blue and green generally affect humans physiologically?",
+        "options": [
+          "They elevate heart rates and induce a state of high alertness.",
+          "They lower blood pressure and reduce stress levels.",
+          "They stimulate appetite and provoke aggressive behavior.",
+          "They trigger feelings of grief and mourning."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "Looking at green or blue has been shown to lower blood pressure and reduce stress levels."
+      },
+      {
+        "id": 6,
+        "stem": "What does the passage say about the cultural interpretation of white?",
+        "options": [
+          "It universally signifies wealth and royalty across all societies.",
+          "It represents purity in Western societies but mourning in several East Asian cultures.",
+          "It is universally associated with danger and toxicity.",
+          "It consistently promotes aggressive behavior in institutional settings."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "White, which represents purity and cleanliness in many Western societies, signifies mourning and grief in several East Asian cultures."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Evolution of Jazz Music",
+    "passage": "Jazz, widely recognized as one of America's greatest cultural exports, represents a complex musical tapestry that has continually evolved since its inception in the late nineteenth and early twentieth centuries. The genesis of jazz is rooted in the vibrant cultural melting pot of New Orleans, Louisiana. In this unique urban environment, a rich synthesis of musical traditions took place. West African rhythmic concepts, characterized by syncopation and polyrhythms, merged with European harmonic structures and instrumentation. Enslaved and free people of color gathered in spaces such as Congo Square to perform traditional dances and music, laying the foundational ethos for a genre that prioritized improvisation and expressive freedom. The early New Orleans style, often referred to as Dixieland, featured small ensemble configurations where instruments like the cornet, clarinet, and trombone simultaneously improvised around a central melody, creating a polyphonic texture that was both chaotic and harmonious. As the twentieth century progressed, the social and economic landscape of the United States shifted dramatically, driving the geographical expansion of jazz. The Great Migration, which saw millions of African Americans move from the rural South to burgeoning industrial cities in the North and Midwest, served as a primary catalyst for this diffusion. Chicago and New York City rapidly transformed into new epicenters for the genre. In Chicago, players adapted the New Orleans sound to larger venues, giving rise to hotter tempos and virtuosic solo performances. By the 1930s, jazz had entered its most commercially dominant era: the Swing Era. Characterized by large musical ensembles known as big bands, swing music was meticulously arranged to appeal to mass audiences for dancing. Visionary bandleaders like Duke Ellington, Count Basie, and Benny Goodman popularized sophisticated arrangements while still carving out space for individual improvisational brilliance. Big band swing became the undisputed popular music of the nation, capturing the cultural zeitgeist of the interwar period. However, by the mid-1940s, a profound stylistic schism emerged. A younger generation of musicians, including saxophonist Charlie Parker and trumpeter Dizzy Gillespie, grew weary of the rigid commercial constraints and predictable formulas of the big band era. After hours, in Harlem after-hours clubs like Minton's Playhouse, these innovators experimented with blistering tempos, complex chord progressions, and intricate rhythmic displacements. This revolutionary subgenre became known as bebop. Bebop shifted jazz away from dance-oriented popular entertainment and transformed it into an intellectual art music intended for attentive listening rather than physical movement. The audience for jazz contracted, but the artistic ceiling soared. Following the bebop revolution, jazz continued to fracture into a myriad of distinct subgenres, ensuring its perpetual vitality. In the late 1940s and 1950s, cool jazz emerged as a subdued, cerebral reaction to the frenetic energy of bebop, emphasizing relaxed tempos and lush tone colors. Concurrently, hard bop incorporated elements of blues, rhythm and blues, and gospel music, reclaiming a visceral, earthy African American aesthetic. By the late 1960s, jazz fusion took center stage, as artists like Miles Davis integrated electric instruments and rock-and-roll beats into their compositions, successfully bridging the gap between jazz and contemporary popular music. Today, jazz remains a dynamic, global phenomenon. Its historical trajectory demonstrates a remarkable capacity for reinvention, proving that jazz is not merely a static artifact of the past, but an ongoing, living tradition defined by cross-cultural dialogue and relentless artistic exploration.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the main idea of the passage?",
+        "options": [
+          "Jazz has followed a continuous path of commercial expansion without significant internal conflict.",
+          "Jazz originated in New Orleans and has constantly evolved through cultural synthesis and reinvention.",
+          "The Swing Era was the most artistically important period in the history of jazz music.",
+          "Modern jazz has entirely abandoned its African roots in favor of European classical structures."
+        ],
+        "answer_index": 1,
+        "topic": "Main idea",
+        "evidence": "Jazz, widely recognized as one of America's greatest cultural exports, represents a complex musical tapestry that has continually evolved since its inception in the late nineteenth and early twentieth centuries."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what specific location served as a gathering space where early practitioners performed traditional dances?",
+        "options": [
+          "Minton's Playhouse",
+          "Chicago Industrial Centers",
+          "Congo Square",
+          "New York Concert Halls"
+        ],
+        "answer_index": 2,
+        "topic": "Detail",
+        "evidence": "Enslaved and free people of color gathered in spaces such as Congo Square to perform traditional dances and music, laying the foundational ethos for a genre that prioritized improvisation and expressive freedom."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about the musicians who created bebop?",
+        "options": [
+          "They prioritized commercial success and mass-market appeal above all else.",
+          "They preferred dancing over attentive listening during their performances.",
+          "They were dissatisfied with the commercial limitations of the big band era.",
+          "They completely rejected the use of complex chord progressions."
+        ],
+        "answer_index": 2,
+        "topic": "Inference",
+        "evidence": "A younger generation of musicians, including saxophonist Charlie Parker and trumpeter Dizzy Gillespie, grew weary of the rigid commercial constraints and predictable formulas of the big band era."
+      },
+      {
+        "id": 4,
+        "stem": "As used in the passage, what does the word 'diffusion' most closely mean?",
+        "options": [
+          "Spread or geographical expansion",
+          "Decline or sudden disappearance",
+          "Strict regulation and control",
+          "Imitation of foreign styles"
+        ],
+        "answer_index": 0,
+        "topic": "Vocabulary in context",
+        "evidence": "The Great Migration, which saw millions of African Americans move from the rural South to burgeoning industrial cities in the North and Midwest, served as a primary catalyst for this diffusion."
+      },
+      {
+        "id": 5,
+        "stem": "Which musical elements were combined in the original New Orleans style of jazz?",
+        "options": [
+          "Latin American percussion and Asian classical melodies",
+          "West African rhythmic concepts and European harmonic structures",
+          "Electronic rock beats and traditional African choral singing",
+          "Modernist avant-garde noise and 19th-century folk songs"
+        ],
+        "answer_index": 1,
+        "topic": "Detail",
+        "evidence": "West African rhythmic concepts, characterized by syncopation and polyrhythms, merged with European harmonic structures and instrumentation."
+      },
+      {
+        "id": 6,
+        "stem": "According to the text, how did cool jazz differ from bebop?",
+        "options": [
+          "Cool jazz was faster, louder, and more aggressive than bebop.",
+          "Cool jazz incorporated electric guitars and heavy rock beats.",
+          "Cool jazz was a subdued, cerebral reaction emphasizing relaxed tempos.",
+          "Cool jazz was designed exclusively for large commercial dance halls."
+        ],
+        "answer_index": 2,
+        "topic": "Detail",
+        "evidence": "In the late 1940s and 1950s, cool jazz emerged as a subdued, cerebral reaction to the frenetic energy of bebop, emphasizing relaxed tempos and lush tone colors."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Neurobiology and Evolution of Dreaming",
+    "passage": "Dreams have fascinated philosophers, artists, and scientists for millennia. Defined as a succession of images, ideas, emotions, and sensations that usually occur involuntarily in the mind during certain stages of sleep, dreaming remains one of the most enigmatic phenomena of the human brain. While ancient civilizations often interpreted dreams as prophetic messages from the divine, modern neuroscience approaches the subject through the lens of empirical research, neuroimaging, and evolutionary biology. To understand the science of dreams, researchers must first examine the architecture of human sleep, specifically the stage known as Rapid Eye Movement (REM) sleep. During REM sleep, which constitutes roughly 20 to 25 percent of an adult's sleep cycle, brain activity closely mimics that of wakefulness. The electroencephalogram (EEG) shows low-voltage, high-frequency brain waves, and the eyes dart back and forth rapidly beneath closed lids. It is during this period that the most vivid, narrative-driven, and emotionally intense dreams occur. Interestingly, however, people also experience simpler, more thought-like dreams during Non-REM (NREM) sleep, suggesting that dreaming is a continuous cognitive process rather than a phenomenon exclusive to REM. The neurobiological mechanism behind REM sleep involves a delicate interplay of neurotransmitters. While acetylcholine levels spike in the forebrain, promoting cortical arousal and the creation of bizarre imagery, monoamines such as serotonin and norepinephrine drop to near-zero levels. This unique neurochemical profile is crucial because serotonin and norepinephrine are typically responsible for logical reasoning, focused attention, and memory consolidation. Their absence during REM sleep explains why dreams often feature bizarre narrative leaps, lack of spatial or temporal orientation, and a general absence of critical self-reflection\u2014a state where the dreamer accepts the most impossible scenarios as absolute reality. Numerous theories have been proposed to explain why humans dream, though a unifying consensus remains elusive. One prominent hypothesis is the Activation-Synthesis Theory, first proposed by neuroscientists J. Allan Hobson and Robert McCarley in 1977. According to this model, dreams do not possess hidden psychological meanings, as Sigmund Freud famously argued; rather, they are the forebrain's attempt to make sense of random neural impulses originating in the brainstem during REM sleep. The higher cognitive centers of the brain take these erratic physiological signals and weave them into a coherent story, resulting in the dream narrative. Another influential perspective is the Threat Simulation Theory, developed by neuroscientist Antti Revonsuo. Revonsuo argues that dreaming evolved as an adaptive defense mechanism. Throughout human evolutionary history, ancestral environments were fraught with physical perils, such as predators and hostile conspecifics. By repeatedly simulating threatening encounters in a safe, virtual environment during sleep, the dreaming brain primes the individual to better recognize and avoid real-world dangers. This theory is supported by the observation that negative emotions, such as fear and anxiety, are disproportionately represented in dream content compared to positive ones. Beyond survival simulations, dreams also play a vital role in memory consolidation and emotional regulation. Throughout the day, the brain is bombarded with an overwhelming amount of sensory data. During sleep, particularly through the reactivation of neural circuits, the brain sifts through this information, discarding irrelevant details while strengthening memories that are deemed valuable for future application. Furthermore, the nocturnal processing of emotional experiences helps 'take the sting out' of painful memories, allowing individuals to wake up with a diminished emotional response to distressing events. Despite remarkable technological advancements in functional magnetic resonance imaging (fMRI) and electrophysiology, many mysteries persist. The subjective nature of dreams makes them inherently difficult to study objectively, as researchers must rely on retrospective self-reports, which are notoriously prone to memory distortion and omission. Nevertheless, as interdisciplinary research continues to bridge the gap between psychology and neurobiology, the once-impenetrable veil of the dream world is slowly beginning to lift, offering profound insights into the inner workings of the human mind.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "To prove that ancient interpretations of dreams were scientifically accurate.",
+          "To explore the neurobiological mechanisms, theories, and evolutionary purposes of dreaming.",
+          "To argue that Sigmund Freud's psychoanalytic theory of dreams is entirely correct.",
+          "To detail the technological limitations of functional magnetic resonance imaging in sleep studies."
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "To understand the science of dreams, researchers must first examine the architecture of human sleep, specifically the stage known as Rapid Eye Movement (REM) sleep."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what happens to monoamine levels, such as serotonin and norepinephrine, during REM sleep?",
+        "options": [
+          "They spike to exceptionally high levels.",
+          "They remain identical to waking levels.",
+          "They drop to near-zero levels.",
+          "They fluctuate unpredictably."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "While acetylcholine levels spike in the forebrain, promoting cortical arousal and the creation of bizarre imagery, monoamines such as serotonin and norepinephrine drop to near-zero levels."
+      },
+      {
+        "id": 3,
+        "stem": "According to the Activation-Synthesis Theory, what is the origin of the narrative elements in dreams?",
+        "options": [
+          "Psychological repression from childhood experiences",
+          "Conscious planning by the dreamer before falling asleep",
+          "Random neural impulses originating in the brainstem",
+          "External sensory stimuli from the bedroom environment"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "According to this model, dreams do not possess hidden psychological meanings, as Sigmund Freud famously argued; rather, they are the forebrain's attempt to make sense of random neural impulses originating in the brainstem during REM sleep."
+      },
+      {
+        "id": 4,
+        "stem": "What can be inferred about the evolutionary function of dreams based on Antti Revonsuo's Threat Simulation Theory?",
+        "options": [
+          "Dreams help humans prepare for physical perils by practicing responses in a safe environment.",
+          "Dreams are merely a useless byproduct of brainstem activity with no survival value.",
+          "Dreams were more important to ancient humans than they are to modern populations.",
+          "Dreams primarily serve to boost positive emotions and suppress fearful memories."
+        ],
+        "answer_index": 0,
+        "topic": "inference",
+        "evidence": "By repeatedly simulating threatening encounters in a safe, virtual environment during sleep, the dreaming brain primes the individual to better recognize and avoid real-world dangers."
+      },
+      {
+        "id": 5,
+        "stem": "In the context of the passage, what does the word 'fraught' most nearly mean?",
+        "options": [
+          "Filled or burdened with",
+          "Free from or lacking",
+          "Protected by or immune to",
+          "Unrelated to or disconnected from"
+        ],
+        "answer_index": 0,
+        "topic": "vocabulary in context",
+        "evidence": "Throughout human evolutionary history, ancestral environments were fraught with physical perils, such as predators and hostile conspecifics."
+      },
+      {
+        "id": 6,
+        "stem": "Why does scientific research into dreams face a significant methodological challenge regarding objective study?",
+        "options": [
+          "Subjects are completely unable to remember any part of their dreams upon waking.",
+          "Brain imaging technology cannot measure electrical activity during REM sleep.",
+          "Researchers must rely on subjective self-reports that are prone to memory distortion.",
+          "Participants refuse to participate in sleep laboratory experiments."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "The subjective nature of dreams makes them inherently difficult to study objectively, as researchers must rely on retrospective self-reports, which are notoriously prone to memory distortion and omission."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Digital Tapestry: How Social Media Shapes Modern Society",
+    "passage": "Over the past two decades, social media platforms have evolved from niche college networking sites into ubiquitous pillars of global communication. Today, billions of individuals across the planet log into various digital ecosystems daily to share updates, consume news, and interact with peers. This unprecedented connectivity has fundamentally altered the fabric of human society, influencing everything from interpersonal relationships and mental health to political discourse and economic structures. As society continues to navigate this digital frontier, understanding the multifaceted impact of social media has become an urgent necessity. At the core of social media's appeal is its ability to transcend geographical boundaries, allowing people to maintain relationships across vast distances. Families separated by migration, old school friends, and individuals with niche interests can connect instantly through messaging features, shared media, and interest-based groups. This fostering of global communities has provided marginalized individuals with safe spaces and solidarity, empowering voices that were previously unheard in traditional media landscapes. Furthermore, social media has democratized information dissemination. Breaking news often appears on platforms like Twitter or Facebook long before traditional news outlets can broadcast reports, giving ordinary citizens the power to act as eyewitnesses and journalists. However, this same democratization has a darker side. The algorithms that power these platforms are meticulously designed to maximize user engagement, often by prioritizing sensational, emotionally charged, or polarizing content. Consequently, misinformation and fake news can spread at an alarming velocity, frequently outpacing factual corrections. This phenomenon poses a severe threat to democratic processes, as targeted disinformation campaigns manipulate public opinion during critical elections. Moreover, the creation of digital echo chambers\u2014where users are only exposed to viewpoints that align with their existing beliefs\u2014deepens societal polarization and stifles constructive debate. Beyond the sociopolitical sphere, the proliferation of social media has sparked profound concerns regarding mental health and individual well-being. Platforms like Instagram and TikTok heavily emphasize visual aesthetics and curated lifestyles, creating an unrelenting culture of comparison. Users are constantly bombarded with idealized representations of peers and influencers, which can foster feelings of inadequacy, low self-esteem, and chronic anxiety, particularly among adolescents and young adults. The quantifiable nature of social interactions on these platforms\u2014measured in ",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The history of networking sites over the last twenty years",
+          "The economic structures created by digital advertising",
+          "The diverse and complex effects of social media on society",
+          "The technical design of algorithmic content delivery"
+        ],
+        "answer_index": 2,
+        "topic": "main idea",
+        "evidence": "As society continues to navigate this digital frontier, understanding the multifaceted impact of social media has become an urgent necessity."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, how do social media algorithms primarily maximize user engagement?",
+        "options": [
+          "By promoting highly accurate and fact-checked journalism",
+          "By prioritizing sensational, emotionally charged, or polarizing content",
+          "By highlighting long-distance family connections and friendships",
+          "By displaying chronological updates from trusted news outlets"
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "The algorithms that power these platforms are meticulously designed to maximize user engagement, often by prioritizing sensational, emotionally charged, or polarizing content."
+      },
+      {
+        "id": 3,
+        "stem": "What can be inferred about digital echo chambers from the passage?",
+        "options": [
+          "They encourage users to critically evaluate opposing political viewpoints.",
+          "They are intentionally dismantled by platform administrators to promote fairness.",
+          "They reduce the likelihood of productive discussions between different groups.",
+          "They are primarily utilized by older generations rather than teenagers."
+        ],
+        "answer_index": 2,
+        "topic": "inference",
+        "evidence": "Moreover, the creation of digital echo chambers\u2014where users are only exposed to viewpoints that align with their existing beliefs\u2014deepens societal polarization and stifles constructive debate."
+      },
+      {
+        "id": 4,
+        "stem": "In the context of the passage, what does the word \"ubiquitous\" most nearly mean?",
+        "options": [
+          "Found everywhere",
+          "Extremely harmful",
+          "Secretly controlled",
+          "Highly profitable"
+        ],
+        "answer_index": 0,
+        "topic": "vocabulary in context",
+        "evidence": "Over the past two decades, social media platforms have evolved from niche college networking sites into ubiquitous pillars of global communication."
+      },
+      {
+        "id": 5,
+        "stem": "Which group of people is specifically highlighted as being particularly vulnerable to feelings of inadequacy caused by curated lifestyles?",
+        "options": [
+          "Politicians and campaign managers",
+          "Journalists and eyewitness reporters",
+          "Adolescents and young adults",
+          "Migrant families and old school friends"
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "Users are constantly bombarded with idealized representations of peers and influencers, which can foster feelings of inadequacy, low self-esteem, and chronic anxiety, particularly among adolescents and young adults."
+      },
+      {
+        "id": 6,
+        "stem": "What positive outcome is associated with the democratization of information dissemination on social media?",
+        "options": [
+          "Traditional news outlets have completely replaced social networks.",
+          "Ordinary citizens can act as eyewitnesses and reporters during breaking news.",
+          "Governments can easily control the narrative of international events.",
+          "Algorithms can completely eliminate fake news before it is published."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "Breaking news often appears on platforms like Twitter or Facebook long before traditional news outlets can broadcast reports, giving ordinary citizens the power to act as eyewitnesses and journalists."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Dawn of a New Era: The Future of Renewable Energy",
+    "passage": "As the global community confronts the escalating crisis of climate change, the transition from fossil fuels to renewable energy sources has shifted from a visionary ideal to an urgent necessity. Over the past decade, solar and wind power have experienced unprecedented growth, driven by dramatic cost reductions and supportive governmental policies. However, as penetration levels of these intermittent sources rise within national grids, the future of renewable energy depends heavily on overcoming technological bottlenecks and embracing systemic innovations that extend far beyond traditional generation methods. One of the foremost challenges facing modern power grids is intermittency. Unlike coal or natural gas plants, which can provide a continuous and predictable supply of electricity, solar panels and wind turbines are at the mercy of weather patterns and daylight hours. To bridge this reliability gap, researchers and engineers are directing immense resources toward next-generation energy storage. While lithium-ion batteries have dominated the market for electric vehicles and small-scale grid applications, they face limitations in capacity, degradation over time, and reliance on scarce minerals such as cobalt and lithium. Consequently, alternative storage technologies are gaining momentum. Flow batteries, compressed air energy storage, and thermal energy storage systems are emerging as viable solutions for multi-day and seasonal storage, ensuring that surplus energy generated during peak production times is not wasted. Beyond storage, the architecture of the grid itself is undergoing a radical paradigm shift. Decentralized energy systems, powered by rooftop solar panels and local microgrids, are decentralizing power generation and empowering local communities. This decentralized approach enhances grid resilience, reducing the vulnerability of national infrastructure to catastrophic blackouts or cyber-attacks. Furthermore, the integration of artificial intelligence and machine learning into grid management has revolutionized energy distribution. Smart grids can now predict fluctuations in weather and electricity demand in real-time, automatically balancing loads and optimizing the dispatch of stored energy with minimal human intervention. Green hydrogen is another frontier poised to transform hard-to-abate sectors such as steel manufacturing, shipping, and aviation, where direct electrification remains exceedingly difficult. Produced through the electrolysis of water using renewable electricity, green hydrogen acts as an energy carrier that can be stored and transported much like natural gas. Although the production costs of green hydrogen are currently high, massive investments and economies of scale are expected to drive prices down significantly by the end of this decade. This could unlock decarbonization pathways for heavy industries that have long been considered impossible to green. Economic factors will ultimately dictate the speed of this global energy transition. Fortunately, market forces are increasingly aligned with environmental imperatives. In most parts of the world, the levelized cost of electricity from new utility-scale solar and wind plants is already lower than that of fossil-fuel competitors. Furthermore, financial institutions are pivoting away from carbon-intensive projects, influenced by tightening regulations and shifting consumer preferences. As developing nations leapfrog traditional fossil-fueled development stages\u2014much like they did with landline telephones in favor of mobile networks\u2014the democratization of energy access becomes a tangible reality. In conclusion, the future of renewable energy is not merely about scaling up wind turbines and solar panels. It is a complex, multifaceted evolution encompassing advanced storage, smart digital infrastructure, novel chemical fuels like green hydrogen, and decentralized market structures. While significant challenges remain, the convergence of technological innovation and economic viability signals an irreversible momentum toward a sustainable global energy ecosystem.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The economic risks of investing in lithium-ion batteries for electric vehicles",
+          "The historical evolution of fossil fuel dependency in developing nations",
+          "The technological and systemic advancements shaping the future of renewable energy",
+          "The political challenges of implementing carbon taxes across heavy industries"
+        ],
+        "answer_index": 2,
+        "topic": "main idea",
+        "evidence": "It is a complex, multifaceted evolution encompassing advanced storage, smart digital infrastructure, novel chemical fuels like green hydrogen, and decentralized market structures."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what limitation is associated with lithium-ion batteries?",
+        "options": [
+          "They are entirely incompatible with electric vehicles.",
+          "They rely on scarce minerals such as cobalt and lithium.",
+          "They can only be used during daylight hours.",
+          "They are too expensive for small-scale grid applications."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "While lithium-ion batteries have dominated the market for electric vehicles and small-scale grid applications, they face limitations in capacity, degradation over time, and reliance on scarce minerals such as cobalt and lithium."
+      },
+      {
+        "id": 3,
+        "stem": "What does the phrase 'hard-to-abate sectors' most likely refer to in the context of the passage?",
+        "options": [
+          "Industries that are easily powered by standard solar panels",
+          "Economic markets that refuse to adopt digital technologies",
+          "Sectors that generate financial profits very slowly",
+          "Fields like steel manufacturing and shipping where direct electrification is difficult"
+        ],
+        "answer_index": 3,
+        "topic": "vocabulary in context",
+        "evidence": "Green hydrogen is another frontier poised to transform hard-to-abate sectors such as steel manufacturing, shipping, and aviation, where direct electrification remains exceedingly difficult."
+      },
+      {
+        "id": 4,
+        "stem": "How do decentralized energy systems affect national infrastructure?",
+        "options": [
+          "They make national grids more vulnerable to cyber-attacks.",
+          "They enhance grid resilience and reduce vulnerability to blackouts.",
+          "They completely eliminate the need for any energy storage systems.",
+          "They increase the cost of electricity for local communities."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "This decentralized approach enhances grid resilience, reducing the vulnerability of national infrastructure to catastrophic blackouts or cyber-attacks."
+      },
+      {
+        "id": 5,
+        "stem": "What can be inferred about the future cost of green hydrogen based on the passage?",
+        "options": [
+          "It will remain prohibitively expensive due to the cost of water electrolysis.",
+          "It is expected to decrease as a result of massive investments and economies of scale.",
+          "It will soon surpass the cost of fossil-fuel competitors in heavy industries.",
+          "It will rely entirely on government subsidies to stay competitive."
+        ],
+        "answer_index": 1,
+        "topic": "inference",
+        "evidence": "Although the production costs of green hydrogen are currently high, massive investments and economies of scale are expected to drive prices down significantly by the end of this decade."
+      },
+      {
+        "id": 6,
+        "stem": "How are developing nations participating in the global energy transition according to the passage?",
+        "options": [
+          "They are bypassing traditional fossil-fueled development stages.",
+          "They are exclusively relying on outdated landline energy networks.",
+          "They are struggling to adopt solar and wind power due to lack of funds.",
+          "They are exporting green hydrogen to developed nations."
+        ],
+        "answer_index": 0,
+        "topic": "detail",
+        "evidence": "As developing nations leapfrog traditional fossil-fueled development stages\u2014much like they did with landline telephones in favor of mobile networks\u2014the democratization of energy access becomes a tangible reality."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Evolutionary and Psychological Power of Storytelling",
+    "passage": "Storytelling is perhaps the most ancient and enduring human art form. Long before the invention of writing, human beings shared myths, legends, and historical accounts orally, etching their experiences into the collective memory of their communities. Archaeologists and anthropologists suggest that narrative expression is not merely a cultural luxury, but a fundamental cognitive tool that shaped the very evolution of the human brain. By organizing disparate events into a coherent sequence with a beginning, middle, and end, stories allow individuals to make sense of a chaotic world. This innate human drive to narrate is universal, transcending geographical and linguistic boundaries, and appearing in every known human civilization.\n\nFrom a psychological perspective, stories are powerful agents of empathy. When a reader or listener engages with a well-crafted narrative, neurological activity mirrors the experiences of the characters. Functional magnetic resonance imaging (fMRI) studies have demonstrated that reading about an action activates the same motor regions in the brain as actually performing it. This phenomenon, often referred to as 'neural coupling,' enables humans to live vicariously through others, thereby expanding their emotional horizons and fostering a deep sense of social cohesion. Through fiction, individuals can explore unfamiliar perspectives, confront moral dilemmas, and experience emotions that their daily lives might otherwise deny them. Consequently, storytelling acts as a psychological simulator, preparing people for complex social interactions without the inherent risks of real-world failure.\n\nIn contemporary society, the application of storytelling has expanded far beyond campfire myths and literary novels. Modern commerce and digital media have harnessed narrative structures to drive consumer behavior and shape brand identity. Advertisers quickly realized that cold, empirical data rarely moves markets; rather, it is the emotional resonance of a brand's narrative that engenders customer loyalty. Similarly, leaders in politics, education, and organizational management utilize storytelling to inspire action, communicate vision, and align diverse groups toward a common goal. A well-told story bypasses intellectual skepticism, engaging the listener on a visceral level that abstract arguments simply cannot achieve.\n\nDespite the ubiquity of digital entertainment, the core mechanics of storytelling remain remarkably resilient. Whether conveyed through a cinematic masterpiece, a virtual reality simulation, or a traditional paperback book, the underlying anatomy of a compelling narrative requires tension, conflict, and resolution. The protagonist must face formidable obstacles, undergo transformation, and ultimately achieve insight or suffer tragic defeat. This enduring structural framework underscores our persistent need for meaning. In an age dominated by information overload, storytelling serves as a vital filter, transforming raw data into wisdom and connecting isolated individuals into a unified community of shared understanding.",
+    "questions": [
+      {
+        "id": 1,
+        "stem": "What is the primary focus of the passage?",
+        "options": [
+          "The economic benefits of modern digital marketing and advertising",
+          "The evolutionary, psychological, and modern significance of storytelling",
+          "The neurological differences between reading fiction and non-fiction",
+          "The historical decline of oral traditions in ancient civilizations"
+        ],
+        "answer_index": 1,
+        "topic": "main idea",
+        "evidence": "Storytelling is perhaps the most ancient and enduring human art form."
+      },
+      {
+        "id": 2,
+        "stem": "According to the passage, what happens in the brain when a person reads about an action?",
+        "options": [
+          "It triggers temporary memory loss regarding real-world events.",
+          "It suppresses the areas of the brain responsible for motor control.",
+          "It activates the same motor regions as performing the action.",
+          "It creates a permanent neurological barrier to logical reasoning."
+        ],
+        "answer_index": 2,
+        "topic": "detail",
+        "evidence": "Functional magnetic resonance imaging (fMRI) studies have demonstrated that reading about an action activates the same motor regions in the brain as actually performing it."
+      },
+      {
+        "id": 3,
+        "stem": "What does the author imply about the use of cold, empirical data in commerce?",
+        "options": [
+          "It is more effective than emotional narratives at inspiring customer loyalty.",
+          "It is rarely sufficient on its own to effectively motivate markets.",
+          "It has completely replaced traditional storytelling in modern advertising.",
+          "It is generally misunderstood by the average consumer."
+        ],
+        "answer_index": 1,
+        "topic": "inference",
+        "evidence": "Advertisers quickly realized that cold, empirical data rarely moves markets; rather, it is the emotional resonance of a brand's narrative that engenders customer loyalty."
+      },
+      {
+        "id": 4,
+        "stem": "As used in the passage, what does the word 'ubiquity' most closely mean?",
+        "options": [
+          "Complexity and depth",
+          "Scarcity and rarity",
+          "Omnipresence or widespread existence",
+          "Unpredictability and chaos"
+        ],
+        "answer_index": 2,
+        "topic": "vocabulary in context",
+        "evidence": "Despite the ubiquity of digital entertainment, the core mechanics of storytelling remain remarkably resilient."
+      },
+      {
+        "id": 5,
+        "stem": "Which of the following best describes how storytelling functions psychologically?",
+        "options": [
+          "It acts as a simulator that prepares people for complex social interactions safely.",
+          "It creates emotional detachment to protect individuals from stress.",
+          "It reinforces pre-existing biases without challenging the listener.",
+          "It serves primarily as a distraction from real-world problems."
+        ],
+        "answer_index": 0,
+        "topic": "detail",
+        "evidence": "Consequently, storytelling acts as a psychological simulator, preparing people for complex social interactions without the inherent risks of real-world failure."
+      },
+      {
+        "id": 6,
+        "stem": "What role does storytelling play in the modern era of information overload?",
+        "options": [
+          "It adds to the confusion by creating contradictory narratives.",
+          "It serves as a vital filter that turns raw data into wisdom.",
+          "It encourages people to abandon digital technology entirely.",
+          "It replaces traditional education systems with cinematic media."
+        ],
+        "answer_index": 1,
+        "topic": "detail",
+        "evidence": "In an age dominated by information overload, storytelling serves as a vital filter, transforming raw data into wisdom and connecting isolated individuals into a unified community of shared understanding."
+      }
+    ]
+  }
+]
