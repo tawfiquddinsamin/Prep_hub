@@ -1,5 +1,5 @@
 import { useState } from "react";
-import MockRoom from "./MockRoom";
+import MockRoom from "./mockroom";
 import DrillRoom from "./DrillRoom";
 import Dashboard from "./dashboard";
 import ScholarshipChat from "./ScholarshipChat";
